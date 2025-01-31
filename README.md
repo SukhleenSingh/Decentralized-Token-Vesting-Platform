@@ -1,5 +1,5 @@
 # Decentralized-Token-Vesting-Platform
-Tech Stack: Ethereum, Solidity, OpenZeppelin, Python, Web3.js, HTML/CSS
+Tech Stack: Ethereum, Solidity, OpenZeppelin, Javascript, Web3.js, Reactjs
 <br>
 Built a single-page DApp with separate interfaces for users and admins.<br>
 Developed Ethereum smart contract for token vesting with adjustable durations and cliff periods.<br>
